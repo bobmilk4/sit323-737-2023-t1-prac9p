@@ -1,0 +1,2 @@
+Command for pulling up shell 
+kubectl exec --stdin --tty mongo-5fc8bb68b-cnxx7 -- /bin/bash
